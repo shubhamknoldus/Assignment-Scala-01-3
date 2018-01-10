@@ -1,21 +1,11 @@
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/AddTwoListElements.scala:5:67: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
-[0m[[0m[31merror[0m] [0m[0m required: List[Int][0m
-[0m[[0m[31merror[0m] [0m[0m  def addTwoList(list1: List[Int], list2: List[Int]): List[Int] = {[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:5:61: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
-[0m[[0m[31merror[0m] [0m[0m required: Int[0m
-[0m[[0m[31merror[0m] [0m[0m  def findKthElement(elements: Int, list: List[Int]): Int = {[0m
-[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:10:48: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
-[0m[[0m[31merror[0m] [0m[0m required: Int[0m
-[0m[[0m[31merror[0m] [0m[0m  def numberOfElements(list: List[Int]): Int = {[0m
-[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:15:43: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
-[0m[[0m[31merror[0m] [0m[0m required: Int[0m
-[0m[[0m[31merror[0m] [0m[0m  def reverseList(list: List[Int]): Int = {[0m
-[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
-[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:17:9: unreachable code[0m
+[0m[[0m[33mwarn[0m] [0m[0m        if (list.indexOf(head) == nthElement) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:7:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m    list match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:38:36: unreachable code[0m
+[0m[[0m[33mwarn[0m] [0m[0m        case first :: Nil => count + 1[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m

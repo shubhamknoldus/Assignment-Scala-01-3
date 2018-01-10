@@ -29,13 +29,24 @@ class ListOperations {
 
   def numberOfElements(list: List[Int]): Int = {
 
+    val counter = 0
+    def numberOfElementsHelper(list: List[Int], count: Int): Int ={
+      list match{
+        case first :: tail => {
+          numberOfElementsHelper(tail,count + 1)
+        }
+        case first :: Nil => count + 1
+        case Nil => count
+      }
+    }
+    val countReal = numberOfElementsHelper(list,counter)
+    countReal
   }
 
 
-  def reverseList(list: List[Int]): List[Int] = {
+/*  def reverseList(list: List[Int]): List[Int] = {
 
-    def reverseListHelper(list: List)
 
-  }
+  }*/
 
 }
