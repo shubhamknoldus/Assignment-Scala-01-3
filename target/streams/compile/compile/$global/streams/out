@@ -1,0 +1,21 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/AddTwoListElements.scala:5:67: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[Int][0m
+[0m[[0m[31merror[0m] [0m[0m  def addTwoList(list1: List[Int], list2: List[Int]): List[Int] = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:5:61: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m  def findKthElement(elements: Int, list: List[Int]): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:10:48: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m  def numberOfElements(list: List[Int]): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:15:43: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m  def reverseList(list: List[Int]): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

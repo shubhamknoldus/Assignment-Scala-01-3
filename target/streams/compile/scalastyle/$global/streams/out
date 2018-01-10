@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/application/ApplicationClass.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/application/ApplicationClass.scala:26:50: There should be a space after the plus (+) sign[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/application/ApplicationClass.scala:26:50: There should be a space before the plus (+) sign[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/application/ApplicationClass.scala:26:33: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/application/ApplicationClass.scala:26:36: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/application/ApplicationClass.scala:26:2: Regular expression matched 'println'[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/application/ApplicationClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/DoubleAllListElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/DoubleAllListElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/FibonacciUsingTailRecursion.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/FibonacciUsingTailRecursion.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/AddTwoListElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/AddTwoListElements.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/AreaOfQuadrilateral.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/AreaOfQuadrilateral.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 6 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 5 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 13 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target[0m

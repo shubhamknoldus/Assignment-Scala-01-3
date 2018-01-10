@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/assignment-scala-01-3_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/operations/ListOperations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/operations/ListOperations.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/application[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/application[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/application/ApplicationClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/application/ApplicationClass.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/operations[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/operations[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/operations/FibonacciUsingTailRecursion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/operations/FibonacciUsingTailRecursion.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/application/ApplicationClass$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/application/ApplicationClass$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/operations/AreaOfQuadrilateral.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/operations/AreaOfQuadrilateral.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/operations/DoubleAllListElements.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/operations/DoubleAllListElements.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/application/ApplicationClass$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/application/ApplicationClass$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/knoldus/operations/AddTwoListElements.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/target/scala-2.12/classes/com/knoldus/operations/AddTwoListElements.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
