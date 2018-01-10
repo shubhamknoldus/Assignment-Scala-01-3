@@ -1,5 +1,6 @@
 package com.knoldus.operations
 
+
 class ListOperations {
 
   def findKthElement(nthElement: Int, list: List[Int]): Int = {
@@ -30,23 +31,29 @@ class ListOperations {
   def numberOfElements(list: List[Int]): Int = {
 
     val counter = 0
-    def numberOfElementsHelper(list: List[Int], count: Int): Int ={
-      list match{
+
+    def numberOfElementsHelper(list: List[Int], count: Int): Int = {
+      list match {
         case first :: tail => {
-          numberOfElementsHelper(tail,count + 1)
+          numberOfElementsHelper(tail, count + 1)
         }
         case first :: Nil => count + 1
         case Nil => count
       }
     }
-    val countReal = numberOfElementsHelper(list,counter)
+
+    val countReal = numberOfElementsHelper(list, counter)
     countReal
   }
 
 
-/*  def reverseList(list: List[Int]): List[Int] = {
+  def reverseList(list: List[Int]): List[Int] = {
 
+    list match {
+      case head :: tail => reverseList(tail) ::: List(head)
+      case Nil => Nil
+    }
 
-  }*/
+  }
 
 }
