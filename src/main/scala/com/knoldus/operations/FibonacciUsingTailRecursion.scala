@@ -7,10 +7,9 @@ class FibonacciUsingTailRecursion {
 
     def fiboGenerate(a: Int, b: Int, c: Int): Unit = {
       c match {
-        case c if (c < counter) => {
+        case c if c < counter =>
           print(a + "\n")
           fiboGenerate(b, b + a, c + 1)
-        }
         case _ => print()
       }
     }
