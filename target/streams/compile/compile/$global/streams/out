@@ -1,11 +1,12 @@
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:17:9: unreachable code[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:18:9: unreachable code[0m
 [0m[[0m[33mwarn[0m] [0m[0m        if (list.indexOf(head) == nthElement) {[0m
 [0m[[0m[33mwarn[0m] [0m[0m        ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:7:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:8:5: match may not be exhaustive.[0m
 [0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Nil[0m
 [0m[[0m[33mwarn[0m] [0m[0m    list match {[0m
 [0m[[0m[33mwarn[0m] [0m[0m    ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:38:36: unreachable code[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Desktop/Assignments/Assignment-Scala-01-3/src/main/scala/com/knoldus/operations/ListOperations.scala:40:36: unreachable code[0m
 [0m[[0m[33mwarn[0m] [0m[0m        case first :: Nil => count + 1[0m
 [0m[[0m[33mwarn[0m] [0m[0m                                   ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.11.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
